@@ -30,7 +30,7 @@
     "request-promise": "^4.1.1",
     "swagger-client": "^2.1.18"
   },
-  "homepage": "https://github.com/Microsoft/BotBuilder-Samples#readme",
+ 
   "main": "app.js",
   "devDependencies": {}
 }
