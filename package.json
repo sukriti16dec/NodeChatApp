@@ -5,7 +5,14 @@
   "scripts": {
     "start": "node app.js"
   },
- 
+  "author": "Microsoft Corp.",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples"
+  ],
  
   "repository": {
     "type": "git",
