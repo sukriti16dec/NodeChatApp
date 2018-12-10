@@ -1,5 +1,5 @@
 {
- "name": "botbuilder-sample-directline-client",
+  "name": "botbuilder-sample-directline-client",
   "version": "1.0.0",
   "description": "Bot Builder Sample - DirectLine Sample - Client",
   "scripts": {
@@ -13,13 +13,12 @@
     "chatbots",
     "botbuilder-samples"
   ],
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/Microsoft/BotBuilder-Samples/issues"
   },
- 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sukriti16dec/NodeChatApp.git"
+    "url": "https://github.com/sukriti16dec/NodeChatApp.git"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -31,7 +30,7 @@
     "request-promise": "^4.1.1",
     "swagger-client": "^2.1.18"
   },
-  
+  "homepage": "https://github.com/Microsoft/BotBuilder-Samples#readme",
   "main": "app.js",
   "devDependencies": {}
 }
