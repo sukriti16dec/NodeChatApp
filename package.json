@@ -1,21 +1,12 @@
 {
-  "name": "botbuilder-sample-directline-client",
+  "name": "demonodeproject",
   "version": "1.0.0",
-  "description": "Bot Builder Sample - DirectLine Sample - Client",
+  "description": "writing first node app",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Microsoft Corp.",
-  "license": "MIT",
-  "keywords": [
-    "botbuilder",
-    "bots",
-    "chatbots",
-    "botbuilder-samples"
-  ],
-  "bugs": {
-    "url": "https://github.com/Microsoft/BotBuilder-Samples/issues"
-  },
+ 
+ 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sukriti16dec/NodeChatApp.git"
