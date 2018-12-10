@@ -13,6 +13,9 @@
     "chatbots",
     "botbuilder-samples"
   ],
+   "bugs": {
+    "url": "https://github.com/Microsoft/BotBuilder-Samples/issues"
+  },
  
   "repository": {
     "type": "git",
