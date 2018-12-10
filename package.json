@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sukriti16dec/DemoNodeApp.git"
+    "url": "git+https://github.com/sukriti16dec/NodeChatApp.git"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
