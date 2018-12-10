@@ -1,36 +1,15 @@
 {
-  "name": "botbuilder-sample-directline-client",
+  "name": "NodeChatApp",
   "version": "1.0.0",
-  "description": "Bot Builder Sample - DirectLine Sample - Client",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "author": "Microsoft Corp.",
-  "license": "MIT",
-  "keywords": [
-    "botbuilder",
-    "bots",
-    "chatbots",
-    "botbuilder-samples"
-  ],
-  "bugs": {
-    "url": "https://github.com/Microsoft/BotBuilder-Samples/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Microsoft/BotBuilder-Samples.git"
-  },
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "delay": "^3.0.0",
-    "express": "^4.16.4",
-    "got": "^9.3.2",
-    "open": "0.0.5",
-    "request": "^2.79.0",
-    "request-promise": "^4.1.1",
-    "swagger-client": "^2.1.18"
-  },
-  "homepage": "https://github.com/Microsoft/BotBuilder-Samples#readme",
+  "description": "writing first node app",
   "main": "app.js",
-  "devDependencies": {}
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
 }
