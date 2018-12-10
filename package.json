@@ -1,7 +1,7 @@
 {
-  "name": "demonodeproject",
+ "name": "botbuilder-sample-directline-client",
   "version": "1.0.0",
-  "description": "writing first node app",
+  "description": "Bot Builder Sample - DirectLine Sample - Client",
   "scripts": {
     "start": "node app.js"
   },
