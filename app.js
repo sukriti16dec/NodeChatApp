@@ -181,7 +181,7 @@ app.get('/', (req, res) => {
     res.send('Hello World!')
 });
 
-app.post('/postMessage', (req,res) => {
+app.post('/', (req,res) => {
     sendMessage(clientObj, conversationIDObj, req.body.message);
     
     responseObj = res;
